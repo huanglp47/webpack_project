@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: "Microsoft YaHei";
+    font-size: 16px;
+}
+#aa{
+    color: blue;
+    font-size: 20px;
+}
+#myImg{
+    background: url("shenzhen.jpg");
+    width: 100px;
+    height: 140px;
+    background-size: contain;
+}
+#importHtml>img, #img1{
+    width: 100px;
+    height: 140px;
+    background-size: contain;
+ }
